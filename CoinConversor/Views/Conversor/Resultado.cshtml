@@ -1,0 +1,18 @@
+﻿@model ConversorDeMoedas.Models.ConversorMoeda
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultado da Conversão</title>
+</head>
+<body>
+    <h2>Resultado da Conversão</h2>
+    <p>Valor: R$ @Model.Valor</p>
+    <p>Moeda de Origem: @Model.MoedaOrigem</p>
+    <p>Moeda de Destino: @Model.MoedaDestino</p>
+    <p><strong>Valor Convertido:</strong> @Model.ValorConvertido</p>
+    <a href="@Url.Action("Index", "Conversor")">Voltar</a>
+</body>
+</html>
