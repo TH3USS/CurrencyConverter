@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\CoinConversor\\",
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\CurrencyConverter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\coinconversor\\coinconversor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|solutionrelative:coinconversor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|c:\\users\\matheus\\documents\\projetos\\currencyconverter\\coinconversor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|solutionrelative:coinconversor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\coinconversor\\coinconversor\\views\\conversor\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|solutionrelative:coinconversor\\views\\conversor\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|c:\\users\\matheus\\documents\\projetos\\currencyconverter\\coinconversor\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|solutionrelative:coinconversor\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\coinconversor\\coinconversor\\views\\conversor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|solutionrelative:coinconversor\\views\\conversor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|c:\\users\\matheus\\documents\\projetos\\currencyconverter\\coinconversor\\models\\conversormoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|solutionrelative:coinconversor\\models\\conversormoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\coinconversor\\coinconversor\\controllers\\conversorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|c:\\users\\matheus\\documents\\projetos\\currencyconverter\\coinconversor\\controllers\\conversorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|solutionrelative:coinconversor\\controllers\\conversorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\coinconversor\\coinconversor\\models\\conversormoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|solutionrelative:coinconversor\\models\\conversormoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|c:\\users\\matheus\\documents\\projetos\\currencyconverter\\coinconversor\\views\\conversor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|solutionrelative:coinconversor\\views\\conversor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|c:\\users\\matheus\\documents\\projetos\\currencyconverter\\coinconversor\\views\\conversor\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|solutionrelative:coinconversor\\views\\conversor\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|c:\\users\\matheus\\documents\\projetos\\currencyconverter\\coinconversor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A242D55F-322C-43E6-B50B-44566FEBC65F}|CoinConversor\\CoinConversor.csproj|solutionrelative:coinconversor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,64 +43,86 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\CoinConversor\\CoinConversor\\Program.cs",
-              "RelativeDocumentMoniker": "CoinConversor\\Program.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\CoinConversor\\CoinConversor\\Program.cs",
-              "RelativeToolTip": "CoinConversor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T03:08:54.969Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\CurrencyConverter\\CoinConversor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoinConversor\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\CurrencyConverter\\CoinConversor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CoinConversor\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T03:44:45.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Resultado.cshtml",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\CoinConversor\\CoinConversor\\Views\\Conversor\\Resultado.cshtml",
-              "RelativeDocumentMoniker": "CoinConversor\\Views\\Conversor\\Resultado.cshtml",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\CoinConversor\\CoinConversor\\Views\\Conversor\\Resultado.cshtml",
-              "RelativeToolTip": "CoinConversor\\Views\\Conversor\\Resultado.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T03:08:40.418Z",
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\CurrencyConverter\\CoinConversor\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CoinConversor\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\CurrencyConverter\\CoinConversor\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CoinConversor\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T03:41:55.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\CurrencyConverter\\CoinConversor\\Program.cs",
+              "RelativeDocumentMoniker": "CoinConversor\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\CurrencyConverter\\CoinConversor\\Program.cs",
+              "RelativeToolTip": "CoinConversor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:08:54.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resultado.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\CurrencyConverter\\CoinConversor\\Views\\Conversor\\Resultado.cshtml",
+              "RelativeDocumentMoniker": "CoinConversor\\Views\\Conversor\\Resultado.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\CurrencyConverter\\CoinConversor\\Views\\Conversor\\Resultado.cshtml",
+              "RelativeToolTip": "CoinConversor\\Views\\Conversor\\Resultado.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T03:08:40.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\CoinConversor\\CoinConversor\\Views\\Conversor\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\CurrencyConverter\\CoinConversor\\Views\\Conversor\\Index.cshtml",
               "RelativeDocumentMoniker": "CoinConversor\\Views\\Conversor\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\CoinConversor\\CoinConversor\\Views\\Conversor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\CurrencyConverter\\CoinConversor\\Views\\Conversor\\Index.cshtml",
               "RelativeToolTip": "CoinConversor\\Views\\Conversor\\Index.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAqwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T03:05:41.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T03:05:41.659Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ConversorController.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\CoinConversor\\CoinConversor\\Controllers\\ConversorController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\CurrencyConverter\\CoinConversor\\Controllers\\ConversorController.cs",
               "RelativeDocumentMoniker": "CoinConversor\\Controllers\\ConversorController.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\CoinConversor\\CoinConversor\\Controllers\\ConversorController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\CurrencyConverter\\CoinConversor\\Controllers\\ConversorController.cs",
               "RelativeToolTip": "CoinConversor\\Controllers\\ConversorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T03:05:09.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T03:05:09.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ConversorMoeda.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\CoinConversor\\CoinConversor\\Models\\ConversorMoeda.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\CurrencyConverter\\CoinConversor\\Models\\ConversorMoeda.cs",
               "RelativeDocumentMoniker": "CoinConversor\\Models\\ConversorMoeda.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\CoinConversor\\CoinConversor\\Models\\ConversorMoeda.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\CurrencyConverter\\CoinConversor\\Models\\ConversorMoeda.cs",
               "RelativeToolTip": "CoinConversor\\Models\\ConversorMoeda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T03:02:54.733Z",
               "EditorCaption": ""

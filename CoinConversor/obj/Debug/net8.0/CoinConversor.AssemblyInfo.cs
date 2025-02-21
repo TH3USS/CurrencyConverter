@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoinConversor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3eab0fda9d771ad0892b64d7001079ac68e9808")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoinConversor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoinConversor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
