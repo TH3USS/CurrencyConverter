@@ -1,8 +1,5 @@
 # Conversor de Moedas  
 
-Conversor de Moedas =>  
-[![Currency Converter](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](coloque-o-link-do-projeto-aqui)  
-
 ### Converta valores entre diferentes moedas de forma rápida e fácil!  
 
 Este projeto permite converter valores entre diferentes moedas, utilizando taxas de câmbio.  
